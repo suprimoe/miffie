@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = [ "love, kitsch.", "queueing orders", "vouch us!" ];
-const statusTypes = [ 'online' ];
+const statusTypes = [ 'do not disturb' ];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
